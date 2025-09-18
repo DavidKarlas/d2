@@ -10,6 +10,7 @@
   - empty left columns are cropped [#2626](https://github.com/terrastruct/d2/pull/2626)
 - exports:
   - Chromium download through CLI for PNG exports is prompted [#2655](https://github.com/terrastruct/d2/pull/2655)
+  - Links on connections now support linking to layers
   - Svg export now supports adding tooltips on connections
   - `animate-interval` is no longer required, defaults to 1000ms for gifs [#2663](https://github.com/terrastruct/d2/pull/2663)
 - renders:
