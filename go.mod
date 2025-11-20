@@ -1,4 +1,4 @@
-module oss.terrastruct.com/d2
+module github.com/DavidKarlas/d2
 
 go 1.25
 
@@ -30,6 +30,7 @@ require (
 	golang.org/x/text v0.22.0
 	golang.org/x/tools v0.25.0
 	golang.org/x/xerrors v0.0.0-20240903120638-7835f813f4da
+	oss.terrastruct.com/d2 v0.7.1
 	oss.terrastruct.com/util-go v0.0.0-20250213174338-243d8661088a
 )
 
@@ -46,7 +47,6 @@ require (
 	github.com/go-stack/stack v1.8.1 // indirect
 	github.com/golang/geo v0.0.0-20230421003525-6adc56603217 // indirect
 	github.com/google/pprof v0.0.0-20240927180334-d43a67379298 // indirect
-	github.com/kr/text v0.2.0 // indirect
 	github.com/pkg/browser v0.0.0-20240102092130-5ac0b6a4141c // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	golang.org/x/exp v0.0.0-20240909161429-701f63a606c0 // indirect
